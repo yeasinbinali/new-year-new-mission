@@ -320,3 +320,17 @@ main {
     justify-content: space-between;
     align-items: center;
 }
+
+.social-media-image {
+    text-align: center;
+}
+
+.social-media-image img {
+    margin-left: 10px;
+}
+
+.reserved-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
