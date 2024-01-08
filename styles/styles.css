@@ -307,4 +307,16 @@ main {
 
 .footer-container {
     background-color: #070211;
+    color: white;
+    font-family: sans-serif;
+}
+
+.footer-section {
+    padding: 120px;
+}
+
+.contact-section {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
 }
