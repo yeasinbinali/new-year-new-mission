@@ -91,6 +91,7 @@ main {
 
 .party-image {
     filter: brightness(40%);
+    width: 100%;
 }
 
 .party-container {
@@ -118,6 +119,7 @@ main {
 }
 
 .new-year-image {
+    padding-right: 25px;
     filter: brightness(100%);
 }
 
@@ -165,7 +167,7 @@ main {
 }
 
 .coming-soon {
-    font-size: 48px;
+    font-size: 40px;
     margin: 20px 0;
 }
 
@@ -225,6 +227,8 @@ main {
     font-size: 18px;
     text-align: center;
     margin: 0 auto 64px;
+    font-weight: 400;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .discount-container {
@@ -232,7 +236,7 @@ main {
 }
 
 .girl-image {
-    margin-bottom: -3px;
+    margin-bottom: -5px;
     text-align: right;
 }
 
@@ -288,6 +292,7 @@ main {
 }
 
 .gift-image {
+    width: 100%;
     opacity: 1;
     display: block;
     transition: .5s ease;
